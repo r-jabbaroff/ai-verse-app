@@ -1,0 +1,48 @@
+{
+  "name": "Rostam Jabbaroff | Seasoned Full-Stack Designer",
+  "short_name": "Jabbaroff",
+  "description": "Crystallizing ideas where strategy meets stunning design. Full-stack designer specializing in web/app development, decentralized solutions, and AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff1800",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "slogan": "Crystallizing ideas where strategy meets stunning design",
+  "about": [
+    "Hey there! Meet Rostam: A full-stack designer with a knack for web and app development, decentralized solutions, and AI. I'm all about blending cutting-edge tech to create sleek, user-friendly experiences. In the fast-paced IT world, I'm driven to tackle new challenges and redefine how we do digital transactions.",
+    "I'm all about that grind, constantly leveling up. Whether it's keeping tabs on new IT trends, hacking away on personal projects, or mingling at tech meetups, I'm always hustling and exploring new frontiers.",
+    "When I'm not glued to my screen, you can catch me diving into sci-fi epics, crushing it at the gym, getting in the feels at the theater, or shredding the slopes on my skis. I'm all about pushing boundaries and expressing myself in new ways.",
+    "Let's build something epic!"
+  ]
+}
